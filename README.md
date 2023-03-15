@@ -1,0 +1,16 @@
+# Commands
+- pipenv install django
+- django-admin startproject config .
+- pipenv shell
+- pipenv --venv
+- pipenv install python-dotenv
+- pip freeze > requirements.txt
+- python manage.py migrate
+- python manage.py runserver
+- python manage.py startapp posts
+- tree
+- pip list
+- python manage.py makemigrations
+- python manage.py createsuperuser
+- pipenv install djangorestframework 
+- python manage.py test
