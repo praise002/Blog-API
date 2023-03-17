@@ -14,3 +14,6 @@
 - python manage.py createsuperuser
 - pipenv install djangorestframework 
 - python manage.py test
+- pipenv install pyyaml uritemplate
+- python manage.py generateschema > openapi-schema.yml
+- pipenv install drf-yasg
